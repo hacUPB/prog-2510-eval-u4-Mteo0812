@@ -196,4 +196,9 @@ def main():
 
 main()
 
-
+#Notas:
+# - se utilizo la inteligencia arcitificial para la correcion de errores en las funciones calcular estaidisticas en la linea 123 ya que no se estaba validando si el valor era un numero o no
+# - tambien se utilizo la inteligencia artificial para validar si el uso del if era correcto y nos corrijio que era mejor utilizar el if not en la primera funcion
+# - Por motivos de un error en la configuracion del pip.py no se pudo instalar la libreria matplotlib, por lo que no se pudo probar la funcion de graficar, pero se dejo el codigo para que funcione al momento de instalar la libreria
+# y por medio de la intelegencia artifical se verifico que el codigo funcioana acarde a lo solicitado en la actividad
+# - Se adjuntaron tambien los archivos csv y txt para que se pueda probar el funcionamiento del programa, pero por motivos de el error no se pudo verificar la funcionalidad de forma local 
